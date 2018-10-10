@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>eBusiness Bootstrap Template</title>
+  <title>Tercum - Logistics - Project Mangement</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -65,7 +65,7 @@
 									</button>
                 <!-- Brand -->
                 <a class="navbar-brand page-scroll sticky-logo" href="index.html">
-                  <h1><span>e</span>Business</h1>
+                  <h1><span>T</span>ercum LLC</h1>
                   <!-- Uncomment below if you prefer to use an image logo -->
                   <!-- <img src="img/logo.png" alt="" title=""> -->
 								</a>
@@ -82,15 +82,7 @@
                   <li>
                     <a class="page-scroll" href="#services">Services</a>
                   </li>
-                  <li>
-                    <a class="page-scroll" href="#team">Team</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="#portfolio">Portfolio</a>
-                  </li>
-                  <li>
-                    <a class="page-scroll" href="#blog">Blog</a>
-                  </li>
+
                   <li>
                     <a class="page-scroll" href="#contact">Contact</a>
                   </li>
@@ -200,7 +192,7 @@
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h2>About eBusiness</h2>
+            <h2>About Tercum</h2>
           </div>
         </div>
       </div>
@@ -414,7 +406,7 @@
             <div class="col-xs-12 col-sm-3 col-md-3 text-center">
               <div class="single-skill">
                 <div class="progress-circular">
-                  <input type="text" class="knob" value="0" data-rel="65" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
+                  <input type="text" class="knob" value="0" data-rel="25" data-linecap="round" data-width="175" data-bgcolor="#fff" data-fgcolor="#3EC1D5" data-thickness=".20" data-readonly="true" disabled>
                   <h3 class="progress-h4">Java Script</h3>
                 </div>
               </div>
@@ -588,7 +580,7 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="wellcome-text">
               <div class="well-text text-center">
-                <h2>Welcome To Our eBusiness</h2>
+                <h2>Welcome To Tercum</h2>
                 <p>
                   Busuness Lorem ipsum dolor sit amet, consectetur adipiscing elit.luctus est eget congue.
                 </p>
@@ -915,70 +907,7 @@
     </div>
   </div>
   <!-- awesome-portfolio end -->
-  <!-- start pricing area -->
-  <div id="pricing" class="pricing-area area-padding">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 col-sm-12 col-xs-12">
-          <div class="section-headline text-center">
-            <h2>Pricing Table</h2>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-4 col-sm-4 col-xs-12">
-          <div class="pri_table_list">
-            <h3>basic <br/> <span>$80 / month</span></h3>
-            <ol>
-              <li class="check">Online system</li>
-              <li class="check cross">Full access</li>
-              <li class="check">Free apps</li>
-              <li class="check">Multiple slider</li>
-              <li class="check cross">Free domin</li>
-              <li class="check cross">Support unlimited</li>
-              <li class="check">Payment online</li>
-              <li class="check cross">Cash back</li>
-            </ol>
-            <button>sign up now</button>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-4 col-xs-12">
-          <div class="pri_table_list active">
-            <span class="saleon">top sale</span>
-            <h3>standard <br/> <span>$110 / month</span></h3>
-            <ol>
-              <li class="check">Online system</li>
-              <li class="check">Full access</li>
-              <li class="check">Free apps</li>
-              <li class="check">Multiple slider</li>
-              <li class="check cross">Free domin</li>
-              <li class="check">Support unlimited</li>
-              <li class="check">Payment online</li>
-              <li class="check cross">Cash back</li>
-            </ol>
-            <button>sign up now</button>
-          </div>
-        </div>
-        <div class="col-md-4 col-sm-4 col-xs-12">
-          <div class="pri_table_list">
-            <h3>premium <br/> <span>$150 / month</span></h3>
-            <ol>
-              <li class="check">Online system</li>
-              <li class="check">Full access</li>
-              <li class="check">Free apps</li>
-              <li class="check">Multiple slider</li>
-              <li class="check">Free domin</li>
-              <li class="check">Support unlimited</li>
-              <li class="check">Payment online</li>
-              <li class="check">Cash back</li>
-            </ol>
-            <button>sign up now</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- End pricing table area -->
+
   <!-- Start Testimonials -->
   <div class="testimonials-area">
     <div class="testi-inner area-padding">
@@ -1147,7 +1076,7 @@
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs=12">
           <div class="suscribe-text text-center">
-            <h3>Welcome to our eBusiness company</h3>
+            <h3>Welcome to Tercum </h3>
             <a class="sus-btn" href="#">Get A quate</a>
           </div>
         </div>
@@ -1186,8 +1115,8 @@
               <div class="single-icon">
                 <i class="fa fa-envelope-o"></i>
                 <p>
-                  Email: info@example.com<br>
-                  <span>Web: www.example.com</span>
+                  Email: info@tercumllc.com<br>
+                  <span>Web: www.tercumllc.com</span>
                 </p>
               </div>
             </div>
@@ -1259,7 +1188,7 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h2><span>e</span>Business</h2>
+                  <h2><span>T</span>ercum LLC</h2>
                 </div>
 
                 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
@@ -1292,7 +1221,7 @@
                 </p>
                 <div class="footer-contacts">
                   <p><span>Tel:</span> +123 456 789</p>
-                  <p><span>Email:</span> contact@example.com</p>
+                  <p><span>Email:</span> contact@tercumllc.com</p>
                   <p><span>Working Hours:</span> 9am-5pm</p>
                 </div>
               </div>
@@ -1323,7 +1252,7 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
               <p>
-                &copy; Copyright <strong>eBusiness</strong>. All Rights Reserved
+                &copy; Copyright <strong>Tercum</strong>. All Rights Reserved
               </p>
             </div>
             <div class="credits">
@@ -1333,7 +1262,7 @@
                 Licensing information: https://bootstrapmade.com/license/
                 Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=eBusiness
               -->
-              Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+             
             </div>
           </div>
         </div>
