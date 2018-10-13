@@ -33,7 +33,7 @@ class PostContactJob implements ShouldQueue
         //dd($this->data);
         Mail::send('emails.contacts.main', $this->data, function($message){
             $message->from('contact@tercumllc.com', 'Contact Form');
-            $message->to('info@tercumllc.com');
+            $message->to('contact@tercumllc.com');
         });
         //send thank you/confirmation message back to customer
         Mail::send('emails.contacts.thank-you', $this->data, function($message){
