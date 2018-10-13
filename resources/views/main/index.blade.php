@@ -202,7 +202,12 @@
           <div class="well-left">
             <div class="single-well">
               <a href="#">
-								  <img src="img/about/1.jpg" alt="">
+                  <img src="img/about/cell1.jpeg" alt="">
+                  <img src="img/about/cell2.jpeg" alt="">
+                  <img src="img/about/data1.jpeg" alt="">
+                  <img src="img/about/data2.jpeg" alt="">
+                  <img src="img/about/data3.jpeg" alt="">
+                  
 								</a>
             </div>
           </div>
@@ -212,26 +217,26 @@
           <div class="well-middle">
             <div class="single-well">
               <a href="#">
-                <h4 class="sec-head">project Maintenance</h4>
+                <h4 class="sec-head">Service & Excellence</h4>
               </a>
               <p>
-                Redug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure aspernatur sit adipisci quaerat unde at nequeRedug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure
+                Specializing in Logistics and Services Tercum provides first class experience for your industrial and manufacturing and data needs.
               </p>
               <ul>
                 <li>
-                  <i class="fa fa-check"></i> Interior design Package
+                  <i class="fa fa-check"></i> Portable Data Centers
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Building House
+                  <i class="fa fa-check"></i> Celular Tower Deployment
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Reparing of Residentail Roof
+                  <i class="fa fa-check"></i> Installation and Maintenance
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Renovaion of Commercial Office
+                  <i class="fa fa-check"></i> Airport Runways
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Make Quality Products
+                  <i class="fa fa-check"></i> Training in the USA course are 7 days , 14 days, 30 days, other training available
                 </li>
               </ul>
             </div>
@@ -414,8 +419,9 @@
                   
                   <li><i class="fa fa-star"></i> Meal</li>
                   <li><i class="fa fa-star"></i> Corn</li>
-                  <li><i class="fa fa-star"></i> Beans</li>
+                  
                   <li><i class="fa fa-star"></i> Flour</li>
+                  <li><i class="fa fa-star"></i> Beans</li>
                   <li><i class="fa fa-star"></i> Beverages</li>
                   <li><i class="fa fa-star"></i> Manufactured Food</li>
                   <li><i class="fa fa-star"></i> Agriculture Products</li>
