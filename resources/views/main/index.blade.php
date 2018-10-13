@@ -266,14 +266,12 @@
                   <h4>Pharmaceuticals</h4>
                   
                   <ul>
+                    <li><i class="fa fa-star"></i> Vaccines</li>
+                    <li><i class="fa fa-star"></i> Anti-Biotic</li>
+                    <li><i class="fa fa-star"></i> Contraceptives</li>
                     <li><i class="fa fa-star"></i> Prescription Drugs</li>
-                    <li><i class="fa fa-star"></i> non-prescription drugs</li>
-                    <li><i class="fa fa-star"></i> vaccines</li>
-                    <li><i class="fa fa-star"></i> contraceptives</li>
-                    <li><i class="fa fa-star"></i> anti-biotic</li>
-                    <li><i class="fa fa-star"></i> penicillin</li>
-                    <li><i class="fa fa-star"></i> anti-inflammatory</li>
-                    <li><i class="fa fa-star"></i> Etc...</li>
+                    <li><i class="fa fa-star"></i> Non-Prescription Drugs</li>
+
                   </ul>
                 </div>
               </div>
@@ -289,13 +287,12 @@
 										</a>
                   <h4>Non-Pharmaceuticals</h4>
                   <ul>
-                  <li><i class="fa fa-star"></i> Veterinary supplies</li>
-                  <li><i class="fa fa-star"></i> prosthetic</li>
-                  <li><i class="fa fa-star"></i> wheel chairs</li>
-                  <li><i class="fa fa-star"></i> first-aid kits</li>
-                  <li><i class="fa fa-star"></i> general hospital supplies</li>
-                  <li><i class="fa fa-star"></i> medical staff uniforms</li>
-                  <li><i class="fa fa-star"></i> bite-proof apparel</li>
+                  <li><i class="fa fa-star"></i> Prosthetic</li>
+                  <li><i class="fa fa-star"></i> Wheel Chairs</li>
+                  <li><i class="fa fa-star"></i> First-aid Kits</li>
+                  <li><i class="fa fa-star"></i> Veterinary Supplies</li>
+                  <li><i class="fa fa-star"></i> General Hospital Supplies</li>
+
                   </ul>
                 </div>
               </div>
@@ -312,13 +309,14 @@
 										</a>
                   <h4>Military</h4>
                   <ul>
-                  <li><i class="fa fa-star"></i> Uniforms</li>
+                  
                   <li><i class="fa fa-star"></i> Boots</li>
-                  <li><i class="fa fa-star"></i> Ballistic vests</li>
-                  <li><i class="fa fa-star"></i> Firearms holsters</li>
-                  <li><i class="fa fa-star"></i> Armored vehicles</li>
-                  <li><i class="fa fa-star"></i> medical staff uniforms</li>
-                  <li><i class="fa fa-star"></i> Vehicle Armoring services</li>
+                  <li><i class="fa fa-star"></i> Uniforms</li>
+                  <li><i class="fa fa-star"></i> Ballistic Vests</li>
+                  <li><i class="fa fa-star"></i> Firearms Holsters</li>
+                  <li><i class="fa fa-star"></i> Armored Vehicles</li>
+                  <li><i class="fa fa-star"></i> Medical Staff Uniforms</li>
+                  <li><i class="fa fa-star"></i> Vehicle Armoring Services</li>
                   </ul>
                 </div>
               </div>
@@ -335,23 +333,20 @@
 										</a>
                   <h4>Technology </h4>
                   <ul>
-                  <li><i class="fa fa-star"></i> NOC Data Centers</li>
-                  <li><i class="fa fa-star"></i> Portable Data Centers</li>
+                  
                   <li><i class="fa fa-star"></i> Cell Towers</li>
                   <li><i class="fa fa-star"></i> Solar Energy</li>
                   <li><i class="fa fa-star"></i> Wind Energy</li>
-                  <li><i class="fa fa-star"></i> Communication</li>
-                  <li><i class="fa fa-star"></i> Installation and Maintenance</li>
-                  <li><i class="fa fa-star"></i> Solar-Powered refrigerated units</li>
-                  <li><i class="fa fa-star"></i> Garbage Compactors</li>
-                  <li><i class="fa fa-star"></i> Waste to Energy</li>
+                  <li><i class="fa fa-star"></i> NOC Data Centers</li>
+                  <li><i class="fa fa-star"></i> Portable Data Centers</li>
+
                   </ul>
                 </div>
               </div>
               <!-- end about-details -->
             </div>
           </div>
-          <!-- End Left services -->
+          
           <div class="col-md-4 col-sm-4 col-xs-12">
             <!-- end col-md-4 -->
             <div class=" about-move">
@@ -362,15 +357,12 @@
 										</a>
                   <h4>Training</h4>
                   <ul>
+                  <li><i class="fa fa-star"></i> Police</li>
                   <li><i class="fa fa-star"></i> Military</li>
                   <li><i class="fa fa-star"></i> Security</li>
-                  <li><i class="fa fa-star"></i> Police</li>
                   <li><i class="fa fa-star"></i> Oil Industry</li>
                   <li><i class="fa fa-star"></i> Off-Shore Safety</li>
-                  <li><i class="fa fa-star"></i> Hostage Rescue</li>
-                  <li><i class="fa fa-star"></i> Fire Fighting</li>
-                  <li><i class="fa fa-star"></i> Defense & Offensive</li>
-                  <li><i class="fa fa-star"></i> Training in the USA course are 7 days , 14 days, 30 days</li>
+
                   </ul>
                 </div>
               </div>
@@ -388,13 +380,15 @@
 										</a>
                   <h4>Air & Marine</h4>
                   <ul>
-                  <li><i class="fa fa-star"></i> BE200 Aircraft</li>
+                  
                   <li><i class="fa fa-star"></i> 737</li>
                   <li><i class="fa fa-star"></i> 767</li>
                   <li><i class="fa fa-star"></i> ATR72</li>
                   <li><i class="fa fa-star"></i> Helicopters</li>
-                  <li><i class="fa fa-star"></i> Coast Guard Vessel</li>
+                  <li><i class="fa fa-star"></i> BE200 Aircraft</li>
+                  
                   <li><i class="fa fa-star"></i> Marine Vessel</li>
+                  <li><i class="fa fa-star"></i> Coast Guard Vessel</li>
                   </ul>
                 </div>
               </div>
@@ -413,14 +407,18 @@
 										</a>
                   <h4>Logistics & Supply Chain</h4>
                   <ul>
-                  <li><i class="fa fa-star"></i> Manufactured Food</li>
-                  <li><i class="fa fa-star"></i> Agriculture Products</li>
-                  <li><i class="fa fa-star"></i> Beverages</li>
-                  <li><i class="fa fa-star"></i> Beans</li>
+                  
+                  
+                  
                   <li><i class="fa fa-star"></i> Rice</li>
-                  <li><i class="fa fa-star"></i> Flour</li>
+                  
                   <li><i class="fa fa-star"></i> Meal</li>
                   <li><i class="fa fa-star"></i> Corn</li>
+                  <li><i class="fa fa-star"></i> Beans</li>
+                  <li><i class="fa fa-star"></i> Flour</li>
+                  <li><i class="fa fa-star"></i> Beverages</li>
+                  <li><i class="fa fa-star"></i> Manufactured Food</li>
+                  <li><i class="fa fa-star"></i> Agriculture Products</li>
                   </ul>
                 </div>
               </div>
@@ -437,16 +435,14 @@
 										</a>
                   <h4>Land Development</h4>
                   <ul>
-                  <li><i class="fa fa-star"></i> Housing</li>
-                  <li><i class="fa fa-star"></i> Resorts</li>
-                  <li><i class="fa fa-star"></i> Office Building</li>
+                  
                   <li><i class="fa fa-star"></i> Clinics</li>
+                  <li><i class="fa fa-star"></i> Resorts</li>
+                  <li><i class="fa fa-star"></i> Housing</li>
+                  <li><i class="fa fa-star"></i> Office Building</li>
+                  
                   <li><i class="fa fa-star"></i> Military Barracks</li>
-                  <li><i class="fa fa-star"></i> Hangers</li>
-                  <li><i class="fa fa-star"></i> Marine Docks</li>
-                  <li><i class="fa fa-star"></i> Airport Runways</li>
-                  <li><i class="fa fa-star"></i> Factories</li>
-                  <li><i class="fa fa-star"></i> Processing Plants</li>
+
                   </ul>
                 </div>
               </div>
