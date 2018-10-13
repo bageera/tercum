@@ -494,7 +494,7 @@
               <div class="well-text text-center">
                 <h2>Welcome To Tercum</h2>
                 <p>
-                  Busuness Lorem ipsum dolor sit amet, consectetur adipiscing elit.luctus est eget congue.
+                  Subscribe to keep on the latest information
                 </p>
                 <div class="subs-feilds">
                   <div class="suscribe-input">
@@ -599,7 +599,8 @@
             <div class="form contact-form">
               <div id="sendmessage">Your message has been sent. Thank you!</div>
               <div id="errormessage"></div>
-              <form action="" method="post" role="form" class="contactForm">
+              <form action="{{ url('/contact') }}" method="post" role="form" class="contactForm">
+                {!! csrf_field() !!}
                 <div class="form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validation"></div>
@@ -723,7 +724,7 @@
   <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8HeI8o-c1NppZA-92oYlXakhDPYR7XMY"></script> -->
 
   <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
+  <!-- <script src="contactform/contactform.js"></script> -->
 
   <script src="js/main.js"></script>
 </body>
