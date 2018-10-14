@@ -103,9 +103,10 @@
   <div id="home" class="slider-area">
     <div class="bend niceties preview-2">
       <div id="ensign-nivoslider" class="slides">
-        <img src="img/slider/slider1.jpg" alt="" title="#slider-direction-1" />
-        <img src="img/slider/slider2.jpg" alt="" title="#slider-direction-2" />
-        <img src="img/slider/slider3.jpg" alt="" title="#slider-direction-3" />
+        <img src="img/slider/slider8.jpg" alt="" title="#slider-direction-1" />
+        <img src="img/slider/slider4.jpg" alt="" title="#slider-direction-2" />
+        <img src="img/slider/slider5.jpg" alt="" title="#slider-direction-3" />
+        <img src="img/slider/slider6.jpg" alt="" title="#slider-direction-4" />
       </div>
 
       <!-- direction 1 -->
