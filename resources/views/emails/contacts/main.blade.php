@@ -7,7 +7,7 @@
 <ul>
     <li><strong>Name: {{ $name }}</strong></li>
     <li><strong>Email: {{ $email }}</strong></li>
-    <li><strong>Message: </strong></li>
+    <li><strong>Message: {{$comment}} </strong></li>
 
 
 </ul>

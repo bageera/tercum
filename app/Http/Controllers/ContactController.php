@@ -10,7 +10,7 @@ class ContactController extends Controller
 {
     public function store(ContactRequest $request)
     {
-        $this->dispatch(new PostContactJob($request->only('name','email','message')));
+        $this->dispatch(new PostContactJob($request->only('name','email','comment')));
         return redirect()->back()->with('flash_message', 'Message Received');
     }
 }
