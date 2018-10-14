@@ -107,6 +107,8 @@
         <img src="img/slider/slider4.jpg" alt="" title="#slider-direction-2" />
         <img src="img/slider/slider5.jpg" alt="" title="#slider-direction-3" />
         <img src="img/slider/slider6.jpg" alt="" title="#slider-direction-4" />
+        <img src="img/slider/slider9.jpg" alt="" title="#slider-direction-5" />
+        <img src="img/slider/slider10.jpg" alt="" title="#slider-direction-6" />
       </div>
 
       <!-- direction 1 -->
@@ -117,11 +119,11 @@
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">The Best Business Information </h2>
+                  <h2 class="title1"> </h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">We're In The Business Of Helping You Start Your Business</h1>
+                  <h1 class="title2">Looking forward never backwards</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
@@ -142,11 +144,11 @@
               <div class="slider-content text-center">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">The Best Business Information </h2>
+                  <h2 class="title1"> </h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">We're In The Business Of Get Quality Business Service</h1>
+                  <h1 class="title2">Security always with a Peace of Mind</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
@@ -160,18 +162,68 @@
       </div>
 
       <!-- direction 3 -->
-      <div id="slider-direction-3" class="slider-direction slider-two">
+      <div id="slider-direction-3" class="slider-direction slider-three">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">The Best business Information </h2>
+                  <h2 class="title1"> </h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Helping Business Security  & Peace of Mind for Your Family</h1>
+                  <h1 class="title2">Success with Courage and Determination</h1>
+                </div>
+                <!-- layer 3 -->
+                <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                  <a class="ready-btn right-btn page-scroll" href="#services">See Services</a>
+                  <a class="ready-btn page-scroll" href="#about">Learn More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- direction 4 -->
+      <div id="slider-direction-4" class="slider-direction slider-four">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="slider-content">
+                <!-- layer 1 -->
+                <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                  <h2 class="title1"></h2>
+                </div>
+                <!-- layer 2 -->
+                <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
+                  <h1 class="title2">Always Delive more than Expected</h1>
+                </div>
+                <!-- layer 3 -->
+                <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                  <a class="ready-btn right-btn page-scroll" href="#services">See Services</a>
+                  <a class="ready-btn page-scroll" href="#about">Learn More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- direction 5 -->
+      <div id="slider-direction-5" class="slider-direction slider-five">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="slider-content">
+                <!-- layer 1 -->
+                <div class="layer-1-1 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                  <h2 class="title1">Technology with a Purpose </h2>
+                </div>
+                <!-- layer 2 -->
+                <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
+                  <h1 class="title2">Success with Courage and Determination</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
