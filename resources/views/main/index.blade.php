@@ -280,7 +280,7 @@
                   <i class="fa fa-check"></i> Portable Data Centers
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Celular Tower Deployment
+                  <i class="fa fa-check"></i> Cellular Tower Deployment
                 </li>
                 <li>
                   <i class="fa fa-check"></i> Installation and Maintenance
@@ -289,7 +289,7 @@
                   <i class="fa fa-check"></i> Airport Runways
                 </li>
                 <li>
-                  <i class="fa fa-check"></i> Training in the USA course are 7 days , 14 days, 30 days, other training available
+                  <i class="fa fa-check"></i> Training in the USA courses are 7 days , 14 days, 30 days, other training available
                 </li>
               </ul>
             </div>
