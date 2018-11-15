@@ -690,11 +690,11 @@
             <div class="footer-content">
               <div class="footer-head">
                 <div class="footer-logo">
-                  <h2><span>T</span>ercum LLC</h2>
+                <img src="{{ asset('img/logo.png') }}"></img>
                 </div>
                 <div>
 
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.</p>
+                <p></p>
                 
                 </div>
               </div>
